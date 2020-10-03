@@ -16,8 +16,22 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 <img src="http://g.recordit.co/ZRwzitFAwc.gif" width=250><br>
 
-### Notes
-Learning Outcomes: Using table views (making scrollable lists). Making network requests to pull the data in Json and using it to populate views. Creating custom views for table cell.
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [X] User can tap a cell to see more details about a particular movie.
+- [X] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+#### BONUS
+- [X] User can tap a poster in the collection view to see a detail screen of that movie.
+- [X] In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+
+### App Walkthough GIF
 
 ![Flix Part-2](https://github.com/surbhihajela/Flix/blob/master/FlixPart2.gif)
+
+### Notes
+Learning Outcomes: Using table views (making scrollable lists). Making network requests to pull the data in Json and using it to populate views. Creating custom views for table cell.
