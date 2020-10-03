@@ -18,3 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Learning Outcomes: Using table views (making scrollable lists). Making network requests to pull the data in Json and using it to populate views. Creating custom views for table cell.
+
+
+![Flix Part-2](https://github.com/surbhihajela/Flix/blob/master/FlixPart2.gif)
